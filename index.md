@@ -48,36 +48,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Seminarios
 <div id='id-seminarios'/>
 
-## Temas para el seminario 1:
+En este curso habrán seminario temáticos. Se darán indicaciones en breve.
 
 
-  
-
-## Temas para el seminario 2:
-
-**No.**  | **Fecha**    | **Tópicos**                                  | **Recursos**
--------- | ------------ | -------------------------------------------- |  -------------------------------------
- 1       | 19.10.2023   | Seminario 2 - *Tema libre*.                  | [Temas](seminario2/Seminario2.pdf){:target="_blank"} <br/> 
- 2       | 02.11.2023   | Fecha límite para elegir tema.               | 
- 3       | 12.11.2023   | Entrega de la presentación (borrador).       | 
- 4       | 16 al 23.11.2023  | Presentación de seminarios.             | 
- 5       | 26.11.2023   | Entrega de código y presentación final.      | 
-
-### Seminario 2 -- Temas ya elegidos
-
-**No.**  | Fecha      | Expositor              | **Tópico**
--------- | ---------- | ---------------------- |  -------------------------------------
- 1       | 16.11.2023 | Stefan Quintana        | La hipótesis de Riemann <br/> [Presentación](seminario2/Riemann.pdf){:target="_blank"}
- 2       | 17.11.2023 | Sofía Escobar          | Test de primalidad de Pocklington <br/> [Presentación](seminario2/Pocklington.pdf){:target="_blank"}
- 3       | 17.11.2023 | Wilfredo Gallegos      | El algoritmo de Karatsuba <br/> [Presentación](seminario2/Karatsuba.pdf){:target="_blank"}
- 4       | 17.11.2023 | Nicolle Escobar        | El último teorema de Fermat <br/> [Presentación](seminario2/Fermat.pdf){:target="_blank"}
- 5       | 21.11.2023 | Joshua Chicoj          | Aplicaciones en criptografía <br/> [Presentación](seminario2/Criptografia.pdf){:target="_blank"} 
- 6       | 23.11.2023 | Guillermo Furlán       | Los problemas de Landau <br/> [Presentación](seminario2/Landau.pdf){:target="_blank"}
- 7       | 24.11.2023 | Rudik Rompich          | Software en Teoría de Números <br/> [Presentación](seminario2/Software.pdf){:target="_blank"}
- 8       | 24.11.2023 | Maria José Gil         | El algoritmo de Shor <br/> [Presentación](seminario2/Shor.pdf){:target="_blank"} 
- 9       | 24.11.2023 | Alejandro Pallais      | La conjetura *Monstruous Moonshine* <br/> [Presentación](seminario2/Moonshine.pdf){:target="_blank"}
- 
- 
 <div id='id-ref'/>
 
 ### Textos:
