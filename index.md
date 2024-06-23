@@ -41,7 +41,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **No.**  | **Fecha**    | **Tópicos**                                                  | **Recursos**
 -------- | ------------ | ------------------------------------------------------------ |  ---------------------------
-01       | 05.07.2024   | Inicio del | 
+01       | 05.07.2024   | Inicio del curso.  | 
  
   
   
@@ -50,17 +50,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 ## Temas para el seminario 1:
 
-**Fecha**    | **Expositor** | **Tópicos**                                          | **Recursos**
------------- | ------------- | ---------------------------------------------------- |  ------------------------------
-03.10.2023   | Guillermo Furlán | Fracciones continuas <br/> Hasta el Teorema 15.2, Ejemplos | Burton, sección 15.2, pp 306-311 <br/> Niven-Zuckerman, sec. 7.1 y 7.2 <br/> [Aula 25a](aulas/Aula25a.pdf){:target="_blank"}
-05.10.2023   | Alejandro Pallais | Fracciones continuas <br/> Teoremas 15.3 y 15.4 | Burton, sección 15.2, pp 311-317 <br/> Niven-Zuckerman, sec. 7.1 y 7.2 <br/> [Aula 25a](aulas/Aula25a.pdf){:target="_blank"}
-06.10.2023   | Stefan Quintana | Fracciones continuas infinitas <br/> Teoremas 15.5, 15.6 y Corolario | Burton, sección 15.3, pp 319-324 <br/> Niven-Zuckerman, sec. 7.3 <br/> [Aula 25b](aulas/Aula25b.pdf){:target="_blank"}
-06.10.2023   | Rudik Rompich | Fracciones continuas infinitas <br/> Teoremas 15.7, Ejemplos 15.5 y 15.6 | Burton, sección 15.3, pp 324-328 <br/> Niven-Zuckerman, sec. 7.3 <br/> [Aula 25b](aulas/Aula25b.pdf){:target="_blank"}
-10.10.2023   | Wilfredo Gallegos | Buenas Aproximaciones <br/> Lema, Teoremas 15.8 y 15.9, Ejemplos | Burton, sección 15.3, pp 330-332 <br/> Niven-Zuckerman, sec. 7.3 <br/> [Aula 25c](aulas/Aula25c.pdf){:target="_blank"}  
-12.10.2023   | Sofía Escobar | Fracciones de Farey <br/> Toda la sección | Burton, sección 15.4, pp 334-337 <br/> Niven-Zuckerman, Cap. 7 <br/> [Aula 25c](aulas/Aula25c.pdf){:target="_blank"}
-13.10.2023   | Nicolle Escobar | Ecuaciones Diofantinas I <br/> Ecuación de Legendre | Moreira et al. <br/> Niven-Zuckerman, sec. 5.5 <br/> [Aula 26a](aulas/Aula26a.pdf){:target="_blank"}
-17.10.2023   | María José Gil | Ecuaciones Diofantinas II <br/> Ecuación de Pell | Stillwell, capítulo 5 <br/> Niven-Zuckerman, sec. 7.8 <br/> [Aula 26b](aulas/Aula26b.pdf){:target="_blank"} 
-19.10.2023   | Joshua Chicoj | Ecuaciones Diofantinas III <br/> Sumas de Cuadrados | Stillwell, capítulo 8 <br/> Stein-Shakarchi, Vol 2, Cap. 10 <br/> [Aula 26c](aulas/Aula26c.pdf){:target="_blank"} 
+
   
 
 ## Temas para el seminario 2:
