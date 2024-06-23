@@ -28,75 +28,21 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 ### Horario
 <div id='id-horario'/>
 
-* Martes de 19:00 a 19:45 CIT-501, Jueves de 19:00 a 19:45 CIT-414, y Viernes de 19:00 a 20:35 CIT-503.
+* Lunes de 19:50 a 21:25 TBA y Viernes de 19:00 a 20:35 TBA.
 
 ### Office Hours
 <div id='id-office'/>
 
 * Viernes de 18:00 a 19:00.
 
+
 # Material del curso
 <div id='id-material'/>
 
- **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
- -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
-  01      | 04.07.2023   | Introducción al curso. Historia de la aritmética. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Burton, secciones 1.1, 1.2 y 2.1.
-  02      | 07.07.2023   | Divisibilidad. Propiedades. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Burton, sección 2.2.
-  L1      | 07.07.2023   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: Martes 18 de julio.**
-  03      | 11.07.2023   | Algoritmo de la División. MDC y MMC. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Burton, sección 2.3.
-  04      | 14.07.2023   | Lema de Bézout. Algoritmo de Euclides. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Burton, secciones 2.3 y 2.4.
-  L2      | 16.07.2023   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de Entrega: Martes 01 de agosto.**
-  05      | 18.07.2023   | La ecuación xa + yb = c. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Burton, sección 2.5.
-  06      | 21.07.2023   | El Teorema Fundamental de la Aritmética. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Burton, sección 3.1.
-  07      | 25.07.2023   | Números primos. Propiedades. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Burton, secciones 3.2 y 3.3.
-  08      | 27.07.2023   | Ternas pitagóricas. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Stillwell, secciones 1.6 y 1.7.
-  09      | 28.07.2023   | Solución de la Lista 1 y Lista 2.  |  
-  10      | 01.08.2023   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Burton, sección 4.1.
-  11      | 03.08.2023   | Cancelación Modular. Ejemplos de usos de congruencias. <br/> | Repasar su teoría de grupos finitos.
-  12      | 04.08.2023   | Representación en bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"} |
-  L3      | 04.08.2023   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 18 de agosto.**
-  13      | 08.08.2023   | Criterios de divisibilidad. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | **Nota:** Falta completar pruebas del teorema para construir criterios. 
-  14      | 10.08.2023   | El anillo de enteros módulo n. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Burton, sección 4.2.
-  15      | 11.08.2023   | Unidades módulo n. La función totiente de Euler. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Burton, sección 4.3.
-  16      | 17.08.2023   | El Teorema de Euler. El pequeño teorema de Fermat. [Aula 14a](aulas/Aula14a.pdf){:target="_blank"} | Burton, secciones 5.2, 7.2, 7.3. 
-  17      | 18.08.2023   | Aplicaciones. El Test de primalidad de Fermat. [Aula 14b](aulas/Aula14b.pdf){:target="_blank"} | Burton, sección 5.2. 
-  18      | 22.08.2023   | Solución de congruencias lineales. | Burton, sección 4.4. 
-  L4      | 22.08.2023   |  | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 1 de septiembre.**
-  19      | 24.08.2023   | Sistemas lineales de congruencias. | Burton, sección 4.4. 
-  20      | 25.08.2023   | El Teorema chino del residuo. | Burton, sección 4.4. 
-  21      | 31.08.2023   | Solución de sistemas lineales de congruencias, caso general. <br/>  | 
-  22      | 01.09.2023   | Solución de la Lista 3 y Lista 4.  |  
-  23      | 05.09.2023   | Congruencias cuadráticas. Símbolo de Legendre. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Burton, secciones 9.1 y 9.2. 
-  24      | 07.09.2023   | Lema de Gauss. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3.  
-  25      | 19.09.2023   | Ley de reciprocidad cuadrática. <br/>| Burton, sección 9.3.  
-  26      | 21.09.2023   | Solución de congruencias cuadráticas. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Burton, sección 9.3. 
-  27      | 22.09.2023   | Congruencias de orden superior. Lema de Hensel. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.6. 
-  28      | 26.09.2023   | Símbolo de Jacobi. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.6.
-  29      | 28.09.2023   | El Método rho de Pollard. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.4.
-  30      | 29.09.2023   | Orden y raíces primitivas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Burton, capítulo 8.
-  31      | 29.09.2023   | Aplicaciones a criptografía. <br/> [Aula 24a](aulas/Aula24a.pdf){:target="_blank"} [Aula 24b](aulas/Aula24b.pdf){:target="_blank"} [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}| 
-  L5      | 02.10.2023   |  | [Lista 05](listas/lista05.pdf){:target="_blank"} <br/> **Fecha de Entrega: Lunes 23 de octubre.**
-  32      | 03.10.2023   | Fracciones continuas finitas. Convergentes. [Presentación Guillermo](seminario1/Guillermo.pdf){:target="_blank"}  | Burton, capítulo 15.
-  33      | 05.10.2023   | Fracciones continuas. Fórmula de recurrencia. [Presentación Alejandro](seminario1/Alejandro.pdf){:target="_blank"} | Burton, capítulo 15.
-  34      | 06.10.2023   | Fracciones continuas infinitas. [Presentación Stefan](seminario1/Stefan.pdf){:target="_blank"} | Burton, capítulo 15.
-  35      | 06.10.2023   | Fracciones continuas infinitas. Cota de aproximación. [Presentación Rudik](seminario1/Rudik.pdf){:target="_blank"} | Burton, capítulo 15.
-  36      | 10.10.2023   | Buenas aproximaciones. Teorema de optimalidad. [Presentación Wilfredo](seminario1/Wilfredo.pdf){:target="_blank"} | Burton, capítulo 15.
-  37      | 12.10.2023   | Fracciones de Farey. <br/> [Presentación Sofía](seminario1/Sofia.pdf){:target="_blank"} | Burton, capítulo 15.
-  38      | 13.10.2023   | Ecuaciones Diofantinas I: La ecuación de Legendre. [Presentación Nicolle](seminario1/Nicolle.pdf){:target="_blank"}| Niven-Zuckerman, sec. 7.8. 
-  39      | 17.10.2023   | Ecuaciones Diofantinas II: La ecuación de Pell. [Presentación Majo](seminario1/MariaJose.pdf){:target="_blank"} | Cap. 5 Stillwell.
-  40      | 19.10.2023   | Ecuaciones Diofantinas III: Sumas de Cuadrados. [Presentación Joshua](seminario1/Joshua.pdf){:target="_blank"} | Cap. 8 Stillwell.
-  41      | 24.10.2023   | Descenso de Fermat. La ecuación de Fermat, caso n=4. [Aula 27](aulas/Aula27.pdf){:target="_blank"} |  Cap. 6 y 7 Stillwell.
-  42      | 27.10.2023   | La ecuación de Fermat, caso n=3. [Aula 28](aulas/Aula28.pdf){:target="_blank"} |  Cap. 6 y 7 Stillwell.
-  43      | 31.10.2023   | Enteros algebraicos. Enteros gaussianos, enteros de Eisenstein. [Aula 29](aulas/Aula29.pdf){:target="_blank"} |  Ribemboim.
-  L6      | 02.11.2023   |  | [Lista 06](listas/lista06.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 24 de noviembre.** 
-  44      | 02.11.2023   | Funciones Aritméticas. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Apostol, Cap. 2.
-  45      | 03.11.2023   | La Fórmula de inversión de Möbius. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Apostol, Cap. 2.
-  46      | 07.11.2023   | Promedios de funciones aritméticas. Notación asintótica. | Apostol, Cap. 3.
-  47      | 09.11.2023   | Fórmula de sumas de Euler. [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Apostol, Cap. 3.
-  48      | 10.11.2023   | Estimativas asintóticas. Densidad de pares coprimos. | Apostol, Cap. 3. 
-  49      | 14.11.2023   | Estimativas sobre primos: Teorema de Chebyshev, Postulado de Bertrand. [Aula 34](aulas/Aula34.pdf){:target="_blank"} | Apostol, Cap. 4.  
-  50      | 14.11.2023   | El Teorema de los números primos. <br/> [Aula 35](aulas/Aula35.pdf){:target="_blank"} | Apostol, Cap. 4.
-  51      | 17.11.2023   | Presentación de seminarios. |   
+**No.**  | **Fecha**    | **Tópicos**                                                  | **Recursos**
+-------- | ------------ | ------------------------------------------------------------ |  ---------------------------
+01       | 05.07.2024   | Inicio del | 
+ 
   
   
 # Seminarios
