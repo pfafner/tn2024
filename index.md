@@ -28,7 +28,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 ### Horario
 <div id='id-horario'/>
 
-* Lunes de 19:50 a 21:25 CIT-??? y Viernes de 19:00 a 20:35 CIT-???.
+* Lunes de 19:50 a 21:25 H-204 y Viernes de 19:00 a 20:35 H-204.
 
 ### Office Hours
 <div id='id-office'/>
