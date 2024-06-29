@@ -6,7 +6,9 @@ Sitio en construcción!
 
 La información del curso estará disponible en breve. Pueden ocurrir cambios.
 
-Este es un curso introductorio a la teoría de números. El curso hace una revisión de los temas clásicos en teoría básica de números, aunque introducidos desde una perspectiva y  enfoque algebraico, haciendo uso de propiedades de estructuras como grupos y anillos. Se hace una revisión de los tópicos y conceptos tradicionales en teoría de números: divisibilidad y fundamentos de la aritmética, congruencias y sistemas de congruencias, residuos cuadráticos, fracciones continuas, ecuaciones diofantinas. Se estudian algunos métodos y aplicaciones recientes en el área de criptografía. El final del curso se enfoca en la teoría analítica de números, donde se estudian las principales funciones aritméticas y teoremas de estimación. Se hace una introducción al teorema de los números primos y otros métodos analíticos.
+Este es un curso introductorio a la teoría de números, pero con un abordaje avanzado haciendo uso estructuras algebraicas vistan en otros cursos anteriores. El curso hace una revisión de los temas clásicos en teoría básica de números, aunque introducidos desde una perspectiva y  enfoque algebraico, haciendo uso de propiedades de estructuras como grupos y anillos. Se hace una revisión de los tópicos y conceptos tradicionales en teoría de números: divisibilidad y fundamentos de la aritmética, congruencias y sistemas de congruencias, residuos cuadráticos, fracciones continuas, ecuaciones diofantinas. Se estudian algunos métodos y aplicaciones recientes en el área de criptografía. 
+
+Al final del curso nos enfocamos en la teoría analítica de números, donde se estudian las principales funciones aritméticas y teoremas de estimación. Se hace una introducción al teorema de los números primos y otros métodos analíticos.
     
 
 # Prerrequisitos
