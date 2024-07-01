@@ -50,7 +50,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Seminarios
 <div id='id-seminarios'/>
 
-En este curso habrán seminario temáticos. Se darán indicaciones en breve.
+En este curso habrán seminario temáticos. Se darán indicaciones más adelante.
 
 
 <div id='id-ref'/>
