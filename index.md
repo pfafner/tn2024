@@ -1,9 +1,5 @@
 # Teoría de Números 2024
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Warning_icon.svg/1200px-Warning_icon.svg.png" alt="" width="100"/>
-
-Sitio en construcción!   
-
 Este es un curso introductorio a la teoría de números, pero con un abordaje avanzado haciendo uso estructuras algebraicas vistan en otros cursos anteriores. El curso hace una revisión de los temas clásicos en teoría básica de números, aunque introducidos desde una perspectiva y  enfoque algebraico, haciendo uso de propiedades de estructuras como grupos y anillos. Se hace una revisión de los tópicos y conceptos tradicionales en teoría de números: divisibilidad y fundamentos de la aritmética, congruencias y sistemas de congruencias, residuos cuadráticos, fracciones continuas, ecuaciones diofantinas. Se estudian algunos métodos y aplicaciones recientes en el área de criptografía. 
 
 Al final del curso nos enfocamos en la teoría analítica de números, donde se estudian las principales funciones aritméticas y teoremas de estimación. Se hace una introducción al teorema de los números primos y otros métodos analíticos.
@@ -48,7 +44,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Seminarios
 <div id='id-seminarios'/>
 
-En este curso habrán seminario temáticos. Se darán indicaciones más adelante.
+En este curso habrán seminarios temáticos. Se darán indicaciones más adelante.
 
 
 <div id='id-ref'/>
@@ -78,7 +74,6 @@ En este curso habrán seminario temáticos. Se darán indicaciones más adelante
 * [S. C. Coutinho (2010). *Números Inteiros e Criptografía RSA*. IMPA.](){:target="_blank"}
 
 * [P. Ribenboim (1999). *Fermat's Last Theorem for Amateurs*. Springer.](http://library.lol/main/30FE5DA3F187B37B980A0C2EA048E563){:target="_blank"}
-
 
 ### Referencias avanzadas:
 
