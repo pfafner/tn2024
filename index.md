@@ -37,7 +37,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **No.**  | **Fecha**    | **Tópicos**                                                  | **Recursos**
 -------- | ------------ | ------------------------------------------------------------ |  ---------------------------
-01       | 05.07.2024   | Generalidades del curso. Motivación histórica. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
+01       | 01.07.2024   | Generalidades del curso. Motivación histórica. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Burton, Cap. 1 y Sección 2.1
+L1       | 05.07.2024   |  | [Lista 01](listas/Lista01.pdf){:target="_blank"} | 
  
   
   
