@@ -37,10 +37,10 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **No.**  | **Fecha**    | **Tópicos**                                                  | **Recursos**
 -------- | ------------ | ------------------------------------------------------------ |  ---------------------------
-01       | 01.07.2024   | Generalidades del curso. Motivación histórica. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Burton, Capítulo 1 <br/> y Sección 2.1
+01       | 01.07.2024   | Generalidades del curso. Motivación histórica. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Burton, secciones 1.1, 1.2 y 2.1
 L1       | 05.07.2024   |  | [Lista 01](listas/Lista01.pdf){:target="_blank"} <br/> **Entrega: Viernes 19 de julio** 
- 
-  
+02       | 08.07.2024   | Divisibilidad. Propiedades. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Burton, sección 2.2
+   
   
 # Seminarios
 <div id='id-seminarios'/>
