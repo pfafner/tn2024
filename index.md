@@ -42,6 +42,7 @@ L1       | 05.07.2024   |  | [Lista 01](listas/Lista01.pdf){:target="_blank"} <b
 02       | 08.07.2024   | Divisibilidad. Propiedades. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Burton, sección 2.2 
 03       | 12.07.2024   | Algoritmo de la División. MDC y MMC. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Burton, sección 2.3 
 04       | 15.07.2024   | Lema de Bézout. Algoritmo de Euclides. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Burton, secciones 2.3 y 2.4 
+L2       | 19.07.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <br/> **Entrega: Viernes 02 de agosto** 
 
   
 # Seminarios
