@@ -45,6 +45,7 @@ L1       | 05.07.2024   |  | [Lista 01](listas/Lista01.pdf){:target="_blank"} <b
 05       | 19.07.2024   | Estimativas en el algoritmo de Euclides. [Aula 05](aulas/Aula05.pdf){:target="_blank"} | 
 06       | 19.07.2024   | La ecuación ax + by = c. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Burton, sección 2.4 
 L2       | 19.07.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <br/> **Entrega: Viernes 02 de agosto** 
+07       | 22.07.2024   | Teorema Fundamental de la Aritmética. Factoración en primos.  | Burton, sección 2.5 
 
   
 # Seminarios
