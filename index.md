@@ -48,6 +48,7 @@ L2       | 19.07.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 07       | 22.07.2024   | Teorema Fundamental de la Aritmética. [Aula 07](aulas/Aula07.pdf){:target="_blank"}  | Burton, sección 2.5 
 08       | 26.07.2024   | Números primos. Factoración en primos. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burton, sección 2.5 
 09       | 29.07.2024   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Burton, sección 4.1
+10       | 02.08.2024   | Representación en bases. Potenciación modular.  | 
 
   
 # Seminarios
