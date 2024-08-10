@@ -50,6 +50,7 @@ L2       | 19.07.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 09       | 29.07.2024   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Burton, sección 4.1
 10       | 02.08.2024   | Representación en bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | 
 11       | 05.08.2024   |  | Corto 1. 
+12       | 09.08.2024   | Criterios de Divisibilidad. <br/> | 
 
   
 # Seminarios
