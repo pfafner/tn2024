@@ -52,10 +52,11 @@ L2       | 19.07.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 11       | 05.08.2024   |  | Corto 1. 
 12       | 09.08.2024   | Criterios de Divisibilidad. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Me falta detallar la prueba en los casos m = 10k + 3, 10k + 7 y 10k + 9.
 13       | 12.08.2024   | El grupo de unidades módulo n. Inversos. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Burton, secciones 4.2 y 4.3
-14       | 16.08.2024   | La función totiente de Euler. Teorema de Euler. Pequeño Teorema de Fermat. | Burton, secciones 4.2 y 4.3
+14       | 16.08.2024   | La función totiente de Euler. Teorema de Euler. Pequeño Teorema de Fermat. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Burton, secciones 4.2 y 4.3
 L3       | 19.08.2024   |  | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: Viernes 30 de agosto** 
+15       | 19.08.2024   | El test de primalidad de Fermat. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} |  
 
-  
+
 # Seminarios
 <div id='id-seminarios'/>
 
