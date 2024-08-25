@@ -54,7 +54,8 @@ L2       | 19.07.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 13       | 12.08.2024   | El grupo de unidades módulo n. Inversos. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Burton, secciones 4.2 y 4.3
 14       | 16.08.2024   | La función totiente de Euler. Teorema de Euler. Pequeño Teorema de Fermat. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Burton, secciones 4.2 y 4.3
 L3       | 19.08.2024   |  | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: Viernes 30 de agosto** 
-15       | 19.08.2024   | El test de primalidad de Fermat. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} |  
+15       | 19.08.2024   | El test de primalidad de Fermat. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Burton, sección 5.2.  
+16       | 23.08.2024   | Solución de congruencias lineales.  | Burton, sección 4.4. 
 
 
 # Seminarios
