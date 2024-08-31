@@ -58,7 +58,7 @@ L3       | 19.08.2024   |  | [Lista 03](listas/Lista03.pdf){:target="_blank"} <b
 16       | 23.08.2024   | Solución de congruencias lineales.  | Burton, sección 4.4. 
 17       | 26.08.2024   | Teorema Chino del Residuo I.  | Burton, sección 4.4. 
 18       | 30.08.2024   | Teorema Chino del Residuo II.  | Burton, sección 4.4. 
-L4       | 30.08.2024   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <br/> **Entrega: Viernes 20 de septiembre** 
+L4       | 30.08.2024   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <br/> **Entrega: Lunes 16 de septiembre** 
 
 
 # Seminarios
