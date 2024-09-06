@@ -54,12 +54,14 @@ L2       | 19.07.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 13       | 12.08.2024   | El grupo de unidades módulo n. Inversos. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Burton, secciones 4.2 y 4.3
 14       | 16.08.2024   | La función totiente de Euler. Teorema de Euler. Pequeño Teorema de Fermat. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Burton, secciones 4.2 y 4.3
 L3       | 19.08.2024   |  | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: Viernes 30 de agosto** 
-15       | 19.08.2024   | El test de primalidad de Fermat. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Burton, sección 5.2.  
-16       | 23.08.2024   | Solución de congruencias lineales.  | Burton, sección 4.4. 
-17       | 26.08.2024   | Teorema Chino del Residuo I.  | Burton, sección 4.4. 
-18       | 30.08.2024   | Teorema Chino del Residuo II.  | Burton, sección 4.4. 
-L4       | 30.08.2024   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <br/> **Entrega: Lunes 16 de septiembre** 
-19       |    |    | 
+15       | 19.08.2024   | El test de primalidad de Fermat. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Burton, sección 5.2 
+16       | 23.08.2024   | Solución de congruencias lineales.  | Burton, sección 4.4.
+17       | 26.08.2024   | Teorema Chino del Residuo I.  | Burton, sección 4.4 
+18       | 30.08.2024   | Teorema Chino del Residuo II.  | Burton, sección 4.4
+L4       | 30.08.2024   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <br/> **Entrega: Martes 17 de septiembre** 
+19       | 02.09.2024   | Congruencias cuadráticas. Símbolo de Legendre. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Burton, secciones 9.1 y 9.2 
+20       | 06.09.2024   | Ley de reciprocidad cuadrática. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3  
+21       | 20.09.2024   |  | Corto 2. 
 
 
 # Seminarios
