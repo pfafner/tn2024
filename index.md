@@ -61,7 +61,8 @@ L3       | 19.08.2024   |  | [Lista 03](listas/Lista03.pdf){:target="_blank"} <b
 L4       | 30.08.2024   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <br/> **Entrega: Martes 17 de septiembre** 
 19       | 02.09.2024   | Congruencias cuadráticas. Símbolo de Legendre. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Burton, secciones 9.1 y 9.2 
 20       | 06.09.2024   | Ley de reciprocidad cuadrática. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3  
-21       | 20.09.2024   |  | Corto 2. 
+21       | 16.09.2024   | Solución de dudas/ejercicios congruencias. |   
+22       | 20.09.2024   |  | Corto 2. 
 
 
 # Seminarios
