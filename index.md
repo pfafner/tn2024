@@ -49,7 +49,7 @@ L2       | 19.07.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 08       | 26.07.2024   | Números primos. Factoración en primos. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burton, sección 2.5 
 09       | 29.07.2024   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Burton, sección 4.1
 10       | 02.08.2024   | Representación en bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | 
-11       | 05.08.2024   |  | Corto 1. 
+11       | 05.08.2024   | Corto 1. <br/> | [Corto 01](cortos/Corto1.pdf){:target="_blank"}
 12       | 09.08.2024   | Criterios de Divisibilidad. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Me falta detallar la prueba en los casos m = 10k + 3, 10k + 7 y 10k + 9.
 13       | 12.08.2024   | El grupo de unidades módulo n. Inversos. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Burton, secciones 4.2 y 4.3
 14       | 16.08.2024   | La función totiente de Euler. Teorema de Euler. Pequeño Teorema de Fermat. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Burton, secciones 4.2 y 4.3
@@ -62,7 +62,7 @@ L4       | 30.08.2024   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <b
 19       | 02.09.2024   | Congruencias cuadráticas. Símbolo de Legendre. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Burton, secciones 9.1 y 9.2 
 20       | 06.09.2024   | Ley de reciprocidad cuadrática. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3  
 21       | 16.09.2024   | Solución de dudas/ejercicios congruencias. |   
-C2       | 20.09.2024   | Corto 2. <br/> | [Corto 02](cortos/Corto2.pdf){:target="_blank"}
+22       | 20.09.2024   | Corto 2. <br/> | [Corto 02](cortos/Corto2.pdf){:target="_blank"}
 
 
 # Seminarios
