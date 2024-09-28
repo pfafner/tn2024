@@ -63,6 +63,9 @@ L4       | 30.08.2024   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <b
 20       | 06.09.2024   | Ley de reciprocidad cuadrática. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3  
 21       | 16.09.2024   | Solución de dudas/ejercicios congruencias. |   
 22       | 20.09.2024   | Corto 2. <br/> | [Corto 02](cortos/Corto2.pdf){:target="_blank"}
+23       | 23.09.2024   | Congruencias de orden superior. Lema de Hensel. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Hardy-Wright.
+24       | 27.09.2024   | Método rho de Pollard. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Burton, sección 9.3  
+25       | 27.09.2024   | Ley de reciprocidad cuadrática. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3  
 
 
 # Seminarios
