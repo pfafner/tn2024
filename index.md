@@ -71,9 +71,24 @@ L4       | 30.08.2024   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <b
 # Seminarios
 <div id='id-seminarios'/>
 
-En este curso habrán seminarios temáticos. Se darán indicaciones más adelante.
+## Temas para el seminario de curso:
+
+**No.**  | **Fecha**    | **Tópicos**                                  | **Recursos**
+-------- | ------------ | -------------------------------------------- |  -------------------------------------
+ 1       | 30.09.2024   | Seminario - *Tema libre*.                    | [Temas](seminario/Temas_seminario.pdf){:target="_blank"} <br/> 
+ 2       | 18.10.2024   | Fecha límite para elegir tema.               | 
+ 3       | 08.11.2024   | Entrega de la presentación (borrador).       | 
+ 4       | 11 al 22.11.2024  | Presentación de seminarios.             | 
+ 5       | 24.11.2024   | Entrega de código y presentación final.      | 
 
 
+### Seminario -- Temas ya elegidos
+
+**No.**  | Fecha      | Expositor              | **Tópico**
+-------- | ---------- | ---------------------- |  -------------------------------------
+ 1       | 30.09.2024 | Mario Castillo         | Criptografía usando curvas elípticas
+
+ 
 <div id='id-ref'/>
 
 ### Textos:
