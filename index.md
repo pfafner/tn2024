@@ -89,8 +89,8 @@ L4       | 30.08.2024   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <b
 
 **No.**  | Fecha      | Expositor              | **Tópico**
 -------- | ---------- | ---------------------- |  -------------------------------------
- 1       | 30.09.2024 | Mario Castillo         | Criptografía usando curvas elípticas
- 2       | 30.09.2024 | Lourdes                | Software para teoría de números
+ 1       | 30.09.2024 | Mario                  | Criptografía usando curvas elípticas
+ 2       | 30.09.2024 | Lourdes                | Comparación de software para teoría de números
 
  
 <div id='id-ref'/>
