@@ -68,7 +68,7 @@ L4       | 30.08.2024   |  | [Lista 04](listas/Lista04.pdf){:target="_blank"} <b
 25       | 27.09.2024   | Raíces primitivas. Logaritmo discreto. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Burton 
 L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <br/> **Entrega: Lunes 14 de octubre** 
 26       | 30.09.2024   | Aplicaciones en criptografía. Protocolo de Diffie-Hellman. [Aula 24a](aulas/Aula24a.pdf){:target="_blank"} | 
-27       | 30.09.2024   | Fracciones continuas. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | 
+27       | 30.09.2024   | Fracciones continuas. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Burton, secciones 15.2 y 15.3
 
 
 
