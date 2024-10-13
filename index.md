@@ -96,6 +96,7 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
  2       | 30.09.2024 | Lourdes                | Comparación de software para teoría de números
  3       | 07.10.2024 | Gaby                   | Algoritmo de Karatsuba 
  4       | 09.10.2024 | Manuel                 | Formas modulares 
+ 5       | 11.10.2024 | Luis                   | Criba de Berstein
 
  
 <div id='id-ref'/>
