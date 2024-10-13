@@ -95,6 +95,7 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
  1       | 30.09.2024 | Mario                  | Criptografía usando curvas elípticas
  2       | 30.09.2024 | Lourdes                | Comparación de software para teoría de números
  3       | 07.10.2024 | Gaby                   | Algoritmo de Karatsuba 
+ 4       | 09.10.2024 | Manuel                 | Formas modulares 
 
  
 <div id='id-ref'/>
