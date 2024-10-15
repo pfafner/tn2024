@@ -72,6 +72,7 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
 28       | 07.10.2024   | Fracciones continuas II. Teorema de Dirichlet. Teorema de Hurwitz-Markov. [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Burton, sección 15.4
 29       | 11.10.2024   | Fracciones continuas III. Fracciones de Farey. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Burton, sección 15.5
 30       | 11.10.2024   | Ternas Pitagóricas. Ecuación de Legendre. [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Burton 
+31       | 14.10.2024   | Ecuación de Pell. Sumas de dos cuadrados. [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Burton 
 
 
 # Seminarios
