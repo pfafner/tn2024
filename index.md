@@ -96,8 +96,11 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
  1       | 30.09.2024 | Mario                  | Criptografía usando curvas elípticas
  2       | 30.09.2024 | Lourdes                | Comparación de software para teoría de números
  3       | 07.10.2024 | Gaby                   | Algoritmo de Karatsuba 
- 4       | 09.10.2024 | Manuel                 | Formas modulares 
+ 4       | 09.10.2024 | Manuel                 | Formas modulares, q-expansiones 
  5       | 11.10.2024 | Luis                   | Criba de Atkin-Berstein
+ 6       | 14.10.2024 | Joab                   | El Teorema de Fermat
+ 7       | 14.10.2024 | Sharis                 | La Conjetura de Goldbach
+ 8       | 14.10.2024 | Montse                 | Conjetura Monstruous Moonshine
 
  
 <div id='id-ref'/>
