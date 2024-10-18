@@ -103,6 +103,9 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
  6       | 14.10.2024 | Joab                   | El Teorema de Fermat
  7       | 14.10.2024 | Sharis                 | La Conjetura de Goldbach
  8       | 14.10.2024 | Montse                 | Conjetura Monstruous Moonshine
+ 9       | 16.10.2024 | Sofi                   | La función zeta de Riemann
+ 10      | 16.10.2024 | Ximena                 | Números p-ádicos 
+ 11      | 17.10.2024 | Jorge                  | 
 
  
 <div id='id-ref'/>
