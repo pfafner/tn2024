@@ -71,8 +71,10 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
 27       | 04.10.2024   | Fracciones continuas. Propiedades. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Burton, secciones 15.2 y 15.3
 28       | 07.10.2024   | Fracciones continuas II. Teorema de Dirichlet. Teorema de Hurwitz-Markov. [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Burton, sección 15.4
 29       | 11.10.2024   | Fracciones continuas III. Fracciones de Farey. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Burton, sección 15.5
-30       | 11.10.2024   | Ternas Pitagóricas. Ecuación de Legendre. [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Burton 
-31       | 14.10.2024   | Ecuación de Pell. Sumas de dos cuadrados. [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Burton 
+30       | 11.10.2024   | Ecuaciones Diofancinas I: Ternas Pitagóricas. [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Niven-Zuckerman, sec. 7.8.
+31       | 14.10.2024   | Ecuaciones Diofancinas II: Ecuación de Pell. [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Stillwell, Cap. 5
+32       | 18.10.2024   | Ecuaciones Diofancinas III: Sumas de Cuadrados. [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Stillwell, Cap. 5
+
 
 
 # Seminarios
