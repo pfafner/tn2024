@@ -77,7 +77,6 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
 33       |   |   |  
 
 
-
 # Seminarios
 <div id='id-seminarios'/>
 
