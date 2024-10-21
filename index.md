@@ -73,7 +73,8 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
 29       | 11.10.2024   | Fracciones continuas III. Fracciones de Farey. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Burton, sección 15.5
 30       | 11.10.2024   | Ecuaciones Diofancinas I: Ternas Pitagóricas. [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Niven-Zuckerman, sec. 7.8.
 31       | 14.10.2024   | Ecuaciones Diofancinas II: Ecuación de Pell. [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Stillwell, Cap. 5
-32       | 18.10.2024   | Ecuaciones Diofancinas III: Sumas de Cuadrados. [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Stillwell, Cap. 5
+32       | 18.10.2024   | Ecuaciones Diofancinas III: Sumas de Cuadrados. [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Stillwell, Cap. 5 
+33       |   |   |  
 
 
 
