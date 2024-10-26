@@ -75,6 +75,7 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
 31       | 14.10.2024   | Ecuaciones Diofantinas II: Ecuación de Pell. [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Stillwell, Cap. 5
 32       | 18.10.2024   | Ecuaciones Diofantinas III: Sumas de Cuadrados. [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Stillwell, Cap. 5 
 33       | 21.10.2024   | La ecuación de Fermat, caso n = 4. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Stillwell, Cap. 6 y 7 
+34       | 25.10.2024   | La ecuación de Fermat, caso n = 3. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Stillwell, Cap. 6 y 7 
 
 
 # Seminarios
