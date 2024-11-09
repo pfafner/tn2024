@@ -78,6 +78,7 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
 34       | 25.10.2024   | La ecuación de Fermat, caso n = 3. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Stillwell, Cap. 6 y 7 
 35       | 28.10.2024   | Enteros algebráicos: Enteros gaussianos. Enteros de Eisenstein. [Aula 33](aulas/Aula33.pdf){:target="_blank"} |   
 36       | 04.11.2024   | Funciones aritméticas. Convolución de Dirichlet. [Aula 34](aulas/Aula34.pdf){:target="_blank"} |   
+37       | 08.11.2024   | Fórmula de inversión de Möbius.  |   
 
 
 # Seminarios
