@@ -80,6 +80,7 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
 36       | 04.11.2024   | Funciones aritméticas. Convolución de Dirichlet. [Aula 34](aulas/Aula34.pdf){:target="_blank"} |   
 37       | 08.11.2024   | Fórmula de inversión de Möbius.  |   
 38       | 08.11.2024   | Promedios de funciones aritméticas.  |   
+39       | 08.11.2024   | El teorema de los números primos.  |   
 
 
 # Seminarios
