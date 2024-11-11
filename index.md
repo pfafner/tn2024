@@ -97,22 +97,22 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
  5       | 24.11.2024   | Entrega de código y presentación final.      | 
 
 
-### Seminario -- Temas ya elegidos
+## Seminario -- Horarios de presentación
 
 **No.**  | Fecha      | Expositor              | **Tópico**
 -------- | ---------- | ---------------------- |  -------------------------------------
- 1       | 30.09.2024 | Mario                  | Criptografía usando curvas elípticas
- 2       | 30.09.2024 | Lourdes                | Comparación de software para teoría de números
- 3       | 07.10.2024 | Gaby                   | Algoritmo de Karatsuba 
- 4       | 09.10.2024 | Manuel                 | Formas modulares, q-expansiones 
- 5       | 11.10.2024 | Luis                   | Criba de Atkin-Berstein
- 6       | 14.10.2024 | Joab                   | El Teorema de Fermat
- 7       | 14.10.2024 | Sharis                 | La Conjetura de Goldbach
- 8       | 14.10.2024 | Montse                 | Conjetura Monstruous Moonshine
- 9       | 16.10.2024 | Sofi                   | La función zeta de Riemann
- 10      | 16.10.2024 | Ximena                 | Números p-ádicos 
- 11      | 17.10.2024 | Jorge                  | Criptografía RSA
-
+ 10      | 11.11.2024 | Ximena                 | Números p-ádicos 
+ 1       | 11.11.2024 | Mario                  | Criptografía usando curvas elípticas
+ 8       | 11.11.2024 | Montse                 | Conjetura Monstruous Moonshine
+ 11      | 15.11.2024 | Jorge                  | Criptografía RSA
+ 5       | 15.11.2024 | Luis                   | Criba de Atkin-Berstein
+ 3       | 15.11.2024 | Gaby                   | Algoritmo de Karatsuba 
+ 6       | 18.11.2024 | Joab                   | El Teorema de Fermat
+ 2       | 18.11.2024 | Lourdes                | Comparación de software para teoría de números
+ 4       | 18.11.2024 | Manuel                 | Formas modulares, q-expansiones 
+ 9       | 22.11.2024 | Sofi                   | La función zeta de Riemann
+ 7       | 22.11.2024 | Sharis                 | La Conjetura de Goldbach
+ 
  
 <div id='id-ref'/>
 
