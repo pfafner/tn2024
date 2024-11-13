@@ -81,6 +81,7 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
 37       | 08.11.2024   | Fórmula de inversión de Möbius. <br/> [Aula 35](aulas/Aula35.pdf){:target="_blank"} | Apostol, Cap. 2  
 38       | 08.11.2024   | Promedios de funciones aritméticas. <br/> [Aula 36](aulas/Aula36.pdf){:target="_blank"} | Apostol, Cap. 3 
 39       | 08.11.2024   | El Teorema de los números primos. <br/> [Aula 37](aulas/Aula37.pdf){:target="_blank"} [Aula 38](aulas/Aula38.pdf){:target="_blank"} | Apostol, Cap. 4 
+40       | 11.11.2024   | Presentación de seminarios. <br/> | 
 
 
 # Seminarios
