@@ -82,6 +82,8 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
 38       | 08.11.2024   | Promedios de funciones aritméticas. <br/> [Aula 36](aulas/Aula36.pdf){:target="_blank"} | Apostol, Cap. 3 
 39       | 08.11.2024   | El Teorema de los números primos. <br/> [Aula 37](aulas/Aula37.pdf){:target="_blank"} [Aula 38](aulas/Aula38.pdf){:target="_blank"} | Apostol, Cap. 4 
 40       | 11.11.2024   | Presentación de seminarios. <br/> | 
+C3       | 18.11.2024   | Corto 3. | [Corto 3](cortos/Corto3.pdf){:target="_blank"} <br/> **Entrega: Viernes 22 de noviembre.**
+41       | 18.11.2024   | Presentación de seminarios. <br/> | 
 
 
 # Seminarios
