@@ -84,6 +84,7 @@ L5       | 30.09.2024   |  | [Lista 05](listas/Lista05.pdf){:target="_blank"} <b
 40       | 11.11.2024   | Presentación de seminarios. <br/> | 
 C3       | 18.11.2024   | Corto 3. | [Corto 3](cortos/Corto3.pdf){:target="_blank"} <br/> **Entrega: Viernes 22 de noviembre.**
 41       | 18.11.2024   | Presentación de seminarios. <br/> | 
+C4       | 22.11.2024   | Corto 4. | [Corto 4](cortos/Corto4.pdf){:target="_blank"} <br/> **Entrega: Domingo 24 de noviembre.**
 
 
 # Seminarios
