@@ -103,19 +103,19 @@ C4       | 22.11.2024   | Corto 4. | [Corto 4](cortos/Corto4.pdf){:target="_blan
 
 ## Seminario -- Horarios de presentación
 
-**No.**  | Fecha      | Expositor              | **Tópico**
--------- | ---------- | ---------------------- |  -------------------------------------
- 10      | 11.11.2024 | Ximena                 | Números p-ádicos 
- 1       | 11.11.2024 | Mario                  | Criptografía usando curvas elípticas
- 8       | 11.11.2024 | Montse                 | Conjetura Monstruous Moonshine
- 11      | 15.11.2024 | Jorge                  | Criptografía RSA
- 5       | 15.11.2024 | Luis                   | Criba de Atkin-Berstein
- 3       | 15.11.2024 | Gaby                   | Algoritmo de Karatsuba 
- 6       | 18.11.2024 | Joab                   | El Teorema de Fermat
- 2       | 18.11.2024 | Lourdes                | Comparación de software para teoría de números
- 4       | 18.11.2024 | Manuel                 | Formas modulares, q-expansiones 
- 9       | 22.11.2024 | Sofi                   | La función zeta de Riemann
- 7       | 22.11.2024 | Sharis                 | La Conjetura de Goldbach
+Fecha      | Expositor              | **Tópico**
+---------- | ---------------------- |  -------------------------------------
+11.11.2024 | Ximena                 | Números p-ádicos 
+11.11.2024 | Mario                  | Criptografía usando curvas elípticas
+11.11.2024 | Montse                 | Conjetura Monstruous Moonshine
+15.11.2024 | Jorge                  | Criptografía RSA
+15.11.2024 | Luis                   | Criba de Atkin-Berstein
+15.11.2024 | Gaby                   | Algoritmo de Karatsuba 
+18.11.2024 | Joab                   | El Teorema de Fermat
+18.11.2024 | Lourdes                | Comparación de software para teoría de números
+18.11.2024 | Manuel                 | Formas modulares, q-expansiones 
+22.11.2024 | Sofi                   | La función zeta de Riemann
+22.11.2024 | Sharis                 | La Conjetura de Goldbach
  
  
 <div id='id-ref'/>
