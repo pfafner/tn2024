@@ -105,17 +105,17 @@ C4       | 22.11.2024   | Corto 4. | [Corto 4](cortos/Corto4.pdf){:target="_blan
 
 Fecha      | Expositor              | **Tópico**
 ---------- | ---------------------- |  -------------------------------------
-11.11.2024 | Ximena                 | Números p-ádicos <br> [Presentación](seminario/P-adicos.pdf){:target="_blank"} 
+11.11.2024 | Ximena                 | Pequeñísima introducción a los números p-ádicos <br> [Presentación](seminario/P-adicos.pdf){:target="_blank"} 
 11.11.2024 | Mario                  | Criptografía usando curvas elípticas <br> [Presentación](seminario/ECC.pdf){:target="_blank"} 
 11.11.2024 | Montse                 | Conjetura Monstruous Moonshine <br> [Presentación](seminario/Moonshine.pdf){:target="_blank"} 
 15.11.2024 | Jorge                  | Criptografía RSA <br> [Presentación](seminario/RSA.pdf){:target="_blank"} 
 15.11.2024 | Luis                   | Criba de Atkin-Berstein <br> [Presentación](seminario/Atkin-Berstein.pdf){:target="_blank"} 
-15.11.2024 | Gaby                   | Algoritmo de Karatsuba <br> [Presentación](seminario/X.pdf){:target="_blank"} 
-18.11.2024 | Joab                   | El Teorema de Fermat <br> [Presentación](seminario/X.pdf){:target="_blank"} 
-18.11.2024 | Lourdes                | Comparación de software para teoría de números <br> [Presentación](seminario/X.pdf){:target="_blank"} 
-18.11.2024 | Manuel                 | Formas modulares, q-expansiones <br> [Presentación](seminario/X.pdf){:target="_blank"} 
-22.11.2024 | Sofi                   | La función zeta de Riemann <br> [Presentación](seminario/X.pdf){:target="_blank"} 
-22.11.2024 | Sharis                 | La Conjetura de Goldbach <br> [Presentación](seminario/X.pdf){:target="_blank"} 
+15.11.2024 | Gaby                   | Algoritmo de Karatsuba <br> [Presentación](seminario/Karatsuba.pdf){:target="_blank"} 
+18.11.2024 | Joab                   | El Teorema de Fermat <br> [Presentación](seminario/Fermat.pdf){:target="_blank"} 
+18.11.2024 | Lourdes                | Comparación de software para teoría de números <br> [Presentación](seminario/Software.pdf){:target="_blank"} 
+18.11.2024 | Manuel                 | Formas modulares y q-expansiones <br> [Presentación](seminario/Formas_Modulares.pdf){:target="_blank"} 
+22.11.2024 | Sofi                   | La función zeta de Riemann <br> [Presentación](seminario/Riemann.pdf){:target="_blank"} 
+22.11.2024 | Sharis                 | La Conjetura de Goldbach <br> [Presentación](seminario/Goldbach.pdf){:target="_blank"} 
  
  
 <div id='id-ref'/>
