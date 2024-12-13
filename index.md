@@ -109,7 +109,7 @@ Fecha      | Expositor              | **Tópico**
 11.11.2024 | Mario                  | Criptografía usando curvas elípticas <br> [Presentación](seminario/ECC.pdf){:target="_blank"} 
 11.11.2024 | Montse                 | Conjetura Monstruous Moonshine <br> [Presentación](seminario/Moonshine.pdf){:target="_blank"} 
 15.11.2024 | Jorge                  | Criptografía RSA <br> [Presentación](seminario/RSA.pdf){:target="_blank"} 
-15.11.2024 | Luis                   | Criba de Atkin-Berstein <br> [Presentación](seminario/Atkin-Berstein.pdf){:target="_blank"} 
+15.11.2024 | Juan Luis              | Criba de Atkin-Berstein <br> [Presentación](seminario/Atkin-Berstein.pdf){:target="_blank"} 
 15.11.2024 | Gaby                   | Algoritmo de Karatsuba <br> [Presentación](seminario/Karatsuba.pdf){:target="_blank"} 
 18.11.2024 | Joab                   | El Teorema de Fermat <br> [Presentación](seminario/Fermat.pdf){:target="_blank"} 
 18.11.2024 | Lourdes                | Comparación de software para teoría de números <br> [Presentación](seminario/Software.pdf){:target="_blank"} 
